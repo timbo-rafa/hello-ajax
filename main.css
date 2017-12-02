@@ -1,6 +1,14 @@
-
 .timbo-bold {
   font-weight: bold;
+}
+
+.timbo-padding {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.timbo-gray {
+  background-color: #f1f1f1;
 }
 
 /* Remove the navbar's default margin-bottom and rounded borders */ 
@@ -14,16 +22,19 @@
 
 /* Set gray background color and 100% height */
 .sidenav {
-  padding-top: 20px;
-  background-color: #f1f1f1;
-  height: 100%;
+  height: 95%;
+}
+
+.header {
+  background-color: #555;
+  color: white;
 }
 
 /* Set black background color, white text and some padding */
 footer {
   background-color: #555;
   color: white;
-  padding: 15px;
+  padding: 10px;
 }
 
 /* On small screens, set height to 'auto' for sidenav and grid */
